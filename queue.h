@@ -8,6 +8,8 @@ using namespace std;
 class queue{
 
   public:
+
+  // Move to private. create accessor and mutators
   int size = 0;
 //-----------------------------------------------------------------------------
 //Mutators for queue

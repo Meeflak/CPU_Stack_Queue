@@ -7,9 +7,9 @@ using namespace std;
 
 class stack{
     public:
-//-----------------------------------------------------------------------------
-//size should not be public but i ran out of time to make a mutator for it =[
-// will fix later
+
+    
+    //move to private. create accessors / mutators and update files
     int size = 0;
 
   
